@@ -9,4 +9,8 @@
     <string name="btnEliminar">Eliminar</string>
     <string name="txtid">ID</string>
 
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">Teléfono</string>
+    <string name="guardar">Guardar</string>
 </resources>
