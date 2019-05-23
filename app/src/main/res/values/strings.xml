@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pastel</string>
+    <string name="txtnombre">📝Nombre</string>
+    <string name="txtcorreo">📧Correo</string>
+    <string name="txttelefono">📱Telefono</string>
+    <string name="btnguardar">Guardar</string>
+    <string name="btneditar">Editar</string>
+    <string name="btnnuevo">Nuevo</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="txtid">ID</string>
+
+</resources>
